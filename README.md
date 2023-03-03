@@ -1,14 +1,13 @@
-<h2> Hey there! I'm Utibe Etim. <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="25"></h2>
+<h2> Hey there! I'm ToyoAbasi Bob. <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a clever and studious Mobile Engineer,
-- 😊 &nbsp; Building solutions for mobile using cutting edge technologies.
-- 💼 &nbsp; I can work with Java, Kotlin, and Dart.
-- ✍️  &nbsp; I write technical articles/contents.
-- 💖 &nbsp; Enthusiast in AI (Deep Learning) and Blockchain.
-- 🌱 &nbsp; I’m currently actively learning Kotlin Multiplatform(KMP).
-- 📫 &nbsp; How to reach me **etim.utibe@gmail.com**
+- 🔭 &nbsp; I’m a competent and hardworking Frontend Developer,
+- 😊 &nbsp; Building solutions for websites and web apps using cutting edge technologies.
+- 💼 &nbsp; I can work with HTML/CSS, JavaScript, and React.
+- 💖 &nbsp; Passionate about growth and the community.
+- 🌱 &nbsp; I’m currently actively bulding with React.js and Tailwind css.
+- 📫 &nbsp; How to reach me **bobtoyoabasi@gmail.com**
 
 
 ## 🌐 Socials:
