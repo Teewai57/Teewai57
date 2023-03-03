@@ -1,8 +1,14 @@
-# ToyoAbasi-Bob
-About ToyoAbasi
+<h2> Hey there! I'm Utibe Etim. <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="25"></h2>
 
-# 💫 About Me:
-I'm currently working on an estate management app with the MEND HQ<br>I'm looking forward to collaborating with a team of developers who are result oriented and driven by achievement to solve a problem<br>I'm currently learning Redux, a React workflow<br>Feel free to ask me about JAMstack and other related topics<br>I love chocolate, lol
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m a clever and studious Mobile Engineer,
+- 😊 &nbsp; Building solutions for mobile using cutting edge technologies.
+- 💼 &nbsp; I can work with Java, Kotlin, and Dart.
+- ✍️  &nbsp; I write technical articles/contents.
+- 💖 &nbsp; Enthusiast in AI (Deep Learning) and Blockchain.
+- 🌱 &nbsp; I’m currently actively learning Kotlin Multiplatform(KMP).
+- 📫 &nbsp; How to reach me **etim.utibe@gmail.com**
 
 
 ## 🌐 Socials:
